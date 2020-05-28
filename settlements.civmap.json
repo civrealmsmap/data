@@ -100,7 +100,7 @@
 {"name": "Port Paradis", "x": 5200, "z": -2600, "nation": "Yamato", "contact": "Jamesie_s", "discord": "https://discord.gg/hSMAQGS", "visitors": "welcome", "Zoom Visibility": 3, "id": "S21"},
 {"name": "Rio de Patata", "x": 5108, "z": -6448, "nation": "Wheatistan", "contact": "kellories", "visitors": "welcome", "Zoom Visibility": 2},
 {"name": "Roman Fort", "x": 2920, "z": -9000, "nation": "The Roman Empire", "contact": "Geirvald", "Zoom Visibility": 2, "id": "S28"},
-{"name": "Rome", "x": 3172, "z": 7245, "nation": "The Roman Empire", "contact": "marino94", "visitors": "welcome", "Zoom Visibility": 1, "id": "S104"},
+{"name": "Rome", "x": 3173, "z": -7246, "nation": "The Roman Empire", "contact": "marino94", "visitors": "welcome", "Zoom Visibility": 1, "id": "S104"},
 {"name": "San Miguel", "x": 2831, "z": -7577, "nation": "Meridia", "Zoom Visibility": 1, "id": "S106"},
 {"name": "Saviors City", "x": -1400, "z": -7500, "nation": "Savaguard", "contact": "MSPaint", "symbol": "https://static.miraheze.org/civrealmswiki/6/63/Saviors_Flag.png", "visitors": "welcome", "Zoom Visibility": 2},
 {"name": "Serenity Ruins", "x": 2862, "z": -8500, "nation": "Former Aurora Oasis", "discord": "https://discord.gg/KJzzDsQ", "wiki": "https://civrealms.miraheze.org/wiki/Aurora_Oasis", "visitors": "welcome", "Zoom Visibility": 2, "notes": "Capital City", "id": "S3"},
