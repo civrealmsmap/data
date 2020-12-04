@@ -1,14 +1,14 @@
 {
-  "name": "Political Maps August 1, 2020",
+  "name": "Political Maps November 28, 2020",
   "info": {"version": "3.0.0-beta3","last_update": 1597350948},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c99",
   "features": [
     {
       "name": "Le Monde Political Map September 2020",
       "creator": "MSPaintDaily",
-      "web": "https://i.redd.it/062bfpqze6o51.png",
+      "web": "https://i.redd.it/ubbnyjkau0261.png",
       "map_image": {
-        "url": "https://i.redd.it/g6lhylqo9nl51.png",
+        "url": "https://i.redd.it/ubbnyjkau0261.png",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c03763"
@@ -36,7 +36,7 @@
   ],
   "presentations": [
     {
-      "name": "Political Maps August 1, 2020",
+      "name": "Political Maps November 28, 2020",
       "style_base": { "opacity": 0.5 }
     }
   ]
