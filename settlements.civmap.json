@@ -201,11 +201,11 @@
     },
     {
       "name": "Solitude",
-      "x": -13700,
-      "z": -15500,
+      "x": -13734,
+      "z": -15503,
       "nation": "Alexandria",
       "contact": "Jaydon_",
-      "visitors": "ask beforehand",
+      "visitors": "welcome",
       "Zoom Visibility": 3,
       "id": "S108"
     },
@@ -396,6 +396,7 @@
       "nation": "Dbugingrad",
       "contact": "dbug113",
       "visitors": "ask beforehand",
+	  "discord": "https://discord.gg/et7QyEjFeh",
       "Zoom Visibility": 1,
       "id": "S27"
     },
@@ -997,7 +998,6 @@
       "z": -7020,
       "nation": "Wheatistan",
       "contact": "Patelpb, mummybundles",
-      "symbol": "welcome",
       "visitors": "welcome",
       "id": "S84"
     },
@@ -1025,7 +1025,6 @@
       "z": -6640,
       "nation": "Wheatistan",
       "contact": "Vajrj, Chomer",
-      "symbol": "welcome",
       "visitors": "welcome",
       "id": "S87"
     },
