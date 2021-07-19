@@ -1,0 +1,70 @@
+{
+  "name": "Land Claims",
+  "info": { "version": "3.0.0-beta3", "last_update": 1613704305 },
+  "id": "dd432eea-e17b-471b-8b78-f22904e9ce8c",
+  "presentations": [
+    {
+      "name": "Land Claims",
+      "style_base": {
+        "color": "$color|#888888",
+        "dash_array": {
+          "default": null,
+          "feature_key": "water",
+          "categories": {
+            "true": [5, 10]
+          }
+        },
+        "fill_opacity": 0.3,
+        "label": null,
+        "opacity": 1,
+        "stroke_color": "#000000",
+        "stroke_width": 1
+      },
+      "style_highlight": {
+        "fill_opacity": 0.5,
+        "label": "$name",
+        "stroke_color": "#ff0000",
+        "stroke_width": 2
+      },
+      "zoom_styles": {
+        "-6": {
+          "label": {
+            "default": null,
+            "feature_key": "declutter",
+            "categories": {
+              "1": "$name",
+              "2": "$shortname"
+            }
+          }
+        },
+        "-4": {
+          "label": {
+            "default": null,
+            "feature_key": "declutter",
+            "categories": {
+              "1": "$name",
+              "2": "$name",
+              "3": "$shortname",
+              "4": "$shortname"
+            }
+          }
+        },
+        "-3": {
+          "label": {
+            "default": null,
+            "feature_key": "declutter",
+            "categories": {
+              "1": "$name",
+              "2": "$name",
+              "3": "$name",
+              "4": "$shortname"
+            }
+          }
+        },
+        "-2": { "label": "$name" }
+      }
+    }
+  ],
+  "features": [
+{"name":"Heaven","color":"#000000","declutter":1,"id":"30c46ef8-bf2b-4132-8938-d332d56d0c06","rectangle":[[2099,-12156],[1002,-13253]]}
+]}
