@@ -103,6 +103,17 @@
       "Notes": "Capital City"
     },
     {
+      "name": "Shroomville ",
+      "x": 6675,
+      "z": -6925,
+      "nation": "Araratia",
+      "contact": "H4Y4STAN",
+      "discord": "https://discord.gg/3R7c7h2dbA",
+      "visitors": "welcome",
+      "Zoom Visibility": 2,
+      "id": "S110",
+    },  
+    {
       "name": "new vietnam",
       "x": -510,
       "z": -5724,
